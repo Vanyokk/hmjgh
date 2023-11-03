@@ -1,0 +1,20 @@
+.box1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+p{
+    border: 1px solid tomato;
+    padding: 20px 10px;
+}
+body{
+    display: flex;
+    font-size: 20px;
+    font-family: sans-serif;
+    justify-content: center;
+    flex-direction: column;
+    height: 80vh;
+    gap: 20px;
+
+}
